@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ElizabethCamp/ElizabethCamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get to know me
+- Elizabeth Camp
+- she/her/hers
+- from Virginia
+- Kappa Kappa Psi | Brotherhood Chair
+- ISUCF'V'MB | Member
+- Hobbies: Baking, soccer, hiking, exploring
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## "Hello World"
+- Reduced Fat Wheat Thins
+- Do not buy Simple Syrup, just make it. I'm begging you
+- ABBA is the sun and Fleetwood Mac is the moon
+
+
 -->
